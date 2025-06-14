@@ -1,3 +1,13 @@
+# Expense Tracker
+
+This project is originally built by [Sangam Mukherjee](https://github.com/sangammukherjee), forked and explored by me for learning purposes.
+
+## What I learned:
+- React structure
+- Context API usage
+- State management
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
